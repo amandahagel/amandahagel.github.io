@@ -1,9 +1,10 @@
 body {
+  /*comment*/
       font-family: "Comic Sans MS", cursive;
       padding: 10px;
 }
 header {
-  background-image: url("os.jpg");
+  background-image: url("./os.jpg");
   background-repeat: no-repeat;
   border-radius: 25px;
   width: 100%;
